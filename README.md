@@ -4,7 +4,7 @@
 
 1. Склонируйте репозиторий:
    ```bash
-   git clone <URL>
+   git clone git@github.com:BlekDark/tz_gpt_ask.git
 
 2. В .env пропишите GIGACHAT_API_KEY и GIGACHAT_SCOPE
 
